@@ -7,8 +7,8 @@ This project implements a framework inspired by the LOLA (LLM-Assisted Online Le
 We investigate two distinct approaches using the Qwen-0.6B architecture:
 1. Embedding-Based Regression: Using semantic embeddings to train a regressor that predicts CTR directly.
 2. Generative Fine-Tuning (LoRA): Fine-tuning the LLM to act as an "Expert Editor" that selects the best headline from a list.
-3.
-4. ## 📊 Results Summary
+
+## 📊 Results Summary
 
 Despite the "Expert Editor" (Fine-Tuning) approach being more intuitive, our experiments show that the Embedding Regression model significantly outperforms the generative approach on this specific dataset.
 
