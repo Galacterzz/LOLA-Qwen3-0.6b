@@ -1,5 +1,11 @@
 # LOLA Implementation: Optimizing Headline Selection with Qwen SLMs
 
+This Project is done as a part of EE 782 IIT Bombay - Advanced Machine Learning
+By student
+Anirudha Shinde (22b2181)
+Valerian Minz (24M1074)
+Samart Sirsat (22b3988)
+
 ## 📜 Overview
 
 This project implements a framework inspired by the LOLA (LLM-Assisted Online Learning Algorithm) paper. The goal is to automate the selection of high-performing news headlines (maximizing Click-Through Rate, or CTR) using Small Language Models (SLMs).
