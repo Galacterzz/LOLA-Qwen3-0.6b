@@ -1,10 +1,10 @@
 # LOLA Implementation: Optimizing Headline Selection with Qwen SLMs
 
-This Project is done as a part of EE 782 IIT Bombay - Advanced Machine Learning
-By student
-Anirudha Shinde (22b2181)
-Valerian Minz (24M1074)
-Samart Sirsat (22b3988)
+This Project is done as a part of EE 782 IIT Bombay - Advanced Machine Learning  
+By students:  
+1. Anirudha Shinde (22b2181)
+2. Valerian Minz (24M1074)
+3. Samart Sirsat (22b3988)
 
 ## 📜 Overview
 
