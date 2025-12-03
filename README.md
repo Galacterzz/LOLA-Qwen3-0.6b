@@ -6,7 +6,7 @@ By students:
 2. Valerian Minz (24M1074)
 3. Samart Sirsat (22b3988)
 
-[DEMO](https://drive.google.com/file/d/1OpMPzz5hSq612xiDPXd-kbbcKk3z3Rp2/view?usp=sharing)  |  [Report](url)
+[DEMO](https://drive.google.com/file/d/1OpMPzz5hSq612xiDPXd-kbbcKk3z3Rp2/view?usp=sharing)  |  [REPORT](https://drive.google.com/file/d/10IcLciiet-btfNmWADXDkubQHLQSXtkG/view?usp=sharing)
 
 ## 📜 Overview
 
