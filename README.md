@@ -6,6 +6,8 @@ By students:
 2. Valerian Minz (24M1074)
 3. Samart Sirsat (22b3988)
 
+[DEMO](https://drive.google.com/file/d/1OpMPzz5hSq612xiDPXd-kbbcKk3z3Rp2/view?usp=sharing)  |  [Report](url)
+
 ## 📜 Overview
 
 This project implements a framework inspired by the LOLA (LLM-Assisted Online Learning Algorithm) paper. The goal is to automate the selection of high-performing news headlines (maximizing Click-Through Rate, or CTR) using Small Language Models (SLMs).
